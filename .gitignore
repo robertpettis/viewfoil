@@ -1,0 +1,5 @@
+
+*.pyc
+.ipynb_checkpoints
+# An example file
+test_cprint.py
